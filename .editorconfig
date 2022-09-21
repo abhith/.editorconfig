@@ -454,12 +454,11 @@ end_of_line = crlf
 # The following applies as to the .editorconfig file ONLY, and is
 # included below for reference, per the requirements of the license
 # corresponding to this .editorconfig file.
-# See: https://github.com/RehanSaeed/EditorConfig
+# See: https://github.com/abhith/.editorconfig
 #
 # MIT License
 #
-# Copyright (c) 2017-2019 Muhammad Rehan Saeed
-# Copyright (c) 2019 Henry Gabryjelski
+# Copyright (c) 2022 Abhith Rajan
 #
 # Permission is hereby granted, free of charge, to any
 # person obtaining a copy of this software and associated
@@ -514,4 +513,3 @@ dotnet_naming_style.camel_case_underscore_style.capitalization = camel_case
 
 # License header
 # file_header_template = Licensed to the .NET Foundation under one or more agreements.\nThe .NET Foundation licenses this file to you under the MIT license.
-
